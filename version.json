@@ -1,1 +1,8 @@
-{"apkUrl":"https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk","changelog":["গিফট শিট এখন বন্ধ করা যাবে — X বাটন, বাইরে ট্যাপ বা ব্যাক করলেই শিট বন্ধ হবে (আগে আটকে যেত)","বন্ধুকে গিফট করা যাবে — প্রোডাক্ট শিট থেকে @username দিলেই তার জন্য কেনা হবে"],"version":"1.19","versionCode":20}
+{
+  "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
+  "changelog": [
+    "ডেলিভার্ড অর্ডার রেট করা যাবে — ৫ স্টার দাও, চাইলে কমেন্ট লেখো; তোমার রিভিউ প্রোডাক্ট পেজে দেখাবে"
+  ],
+  "version": "1.20",
+  "versionCode": 21
+}
