@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "ডেলিভার্ড অর্ডার রেট করা যাবে — ৫ স্টার দাও, চাইলে কমেন্ট লেখো; তোমার রিভিউ প্রোডাক্ট পেজে দেখাবে"
+    "সাবস্ক্রিপশন বাতিল করা যাবে — মেয়াদ শেষ পর্যন্ত ব্যবহার করা যাবে, শুধু আর রিনিউ হবে না"
   ],
-  "version": "1.20",
-  "versionCode": 21
+  "version": "1.21",
+  "versionCode": 22
 }
