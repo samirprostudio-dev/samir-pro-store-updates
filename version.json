@@ -1,1 +1,9 @@
-{"apkUrl":"https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk","changelog":["আমার অর্ডার পেজে এখন খোঁজা যাবে — প্রোডাক্টের নাম বা অর্ডার আইডি দিয়ে সার্চ করো","স্ট্যাটাস ফিল্টার যোগ হয়েছে — সবগুলো / ডেলিভারড / প্রসেসিং আলাদা করে দেখা যাবে","টাইমলাইন চেকমার্ক, গেটওয়ে রিটার্ন স্ক্রিন আর My Codes সহ v1.14-এর সব ফিচার এর ভেতরেই আছে"],"version":"1.15","versionCode":16}
+{
+  "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
+  "changelog": [
+    "অর্ডার শিটে এখন রসিদ দেখা যাবে — আইটেম, একক মূল্য, ছাড় আর পেমেন্টের পুরো হিসাব",
+    "রসিদ এক ট্যাপে কপি করা যাবে, সাপোর্টে পাঠাতে বা নিজের কাছে রাখতে সুবিধা হবে"
+  ],
+  "version": "1.16",
+  "versionCode": 17
+}
