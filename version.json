@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "প্রসেসিং অর্ডার বাতিল করা যাবে — পুরো টাকা Store Balance-এ ফেরত যাবে"
+    "স্টক শেষ প্রোডাক্টে Notify Me — স্টক ফিরলেই নোটিফিকেশনে জানিয়ে দেবো"
   ],
-  "version": "1.22",
-  "versionCode": 23
+  "version": "1.23",
+  "versionCode": 24
 }
