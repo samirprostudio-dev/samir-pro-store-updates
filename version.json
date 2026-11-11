@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "লয়্যালটি পয়েন্ট এখন চেকআউটে ব্যবহার করা যাবে — ১ পয়েন্ট = ৳1 ছাড়; পয়েন্ট জমে প্রতি ৳1 খরচে"
+    "লয়্যালটি টিয়ার ছাড় এখন চেকআউটে অটো-অ্যাপ্লাই হয় — Silver ৪%, Gold ৮%; কুপন ও পয়েন্টের সাথেও মিলিয়ে নেওয়া যায়"
   ],
-  "version": "1.27",
-  "versionCode": 28
+  "version": "1.28",
+  "versionCode": 29
 }
