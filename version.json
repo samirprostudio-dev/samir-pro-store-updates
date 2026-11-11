@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "সাবস্ক্রিপশন শেষ হওয়ার আগে রিমাইন্ডার — মেয়াদ ৩০ দিনের মধ্যে শেষ হলে কার্ডে সতর্কতা দেখাবে আর নোটিফিকেশনে রিনিউ লিংক আসবে"
+    "প্রোডাক্ট তুলনা — পাশাপাশি দাম, মাসপ্রতি খরচ, মেয়াদ, ছাড় আর রেটিং দেখে সেরা প্ল্যানটা বেছে নাও"
   ],
-  "version": "1.25",
-  "versionCode": 26
+  "version": "1.26",
+  "versionCode": 27
 }
