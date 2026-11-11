@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "প্রোডাক্ট তুলনা — পাশাপাশি দাম, মাসপ্রতি খরচ, মেয়াদ, ছাড় আর রেটিং দেখে সেরা প্ল্যানটা বেছে নাও"
+    "লয়্যালটি পয়েন্ট এখন চেকআউটে ব্যবহার করা যাবে — ১ পয়েন্ট = ৳1 ছাড়; পয়েন্ট জমে প্রতি ৳1 খরচে"
   ],
-  "version": "1.26",
-  "versionCode": 27
+  "version": "1.27",
+  "versionCode": 28
 }
