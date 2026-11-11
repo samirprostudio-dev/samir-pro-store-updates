@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "স্টক শেষ প্রোডাক্টে Notify Me — স্টক ফিরলেই নোটিফিকেশনে জানিয়ে দেবো"
+    "প্রোডাক্ট পেজে ‘তোমার পছন্দ হতে পারে’ — একই ক্যাটাগরির আরও প্রোডাক্ট, ট্যাপ করলেই সেই প্রোডাক্ট খুলবে"
   ],
-  "version": "1.23",
-  "versionCode": 24
+  "version": "1.24",
+  "versionCode": 25
 }
