@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "লয়্যালটি টিয়ার ছাড় এখন চেকআউটে অটো-অ্যাপ্লাই হয় — Silver ৪%, Gold ৮%; কুপন ও পয়েন্টের সাথেও মিলিয়ে নেওয়া যায়"
+    "লয়্যালটি টিয়ার ছাড় এখন রিনিউতেও অটো-অ্যাপ্লাই হয় — Silver ৪%, Gold ৮%; চেকআউটের মতো রিনিউ পেজেও ছাড় দেখাবে"
   ],
-  "version": "1.28",
-  "versionCode": 29
+  "version": "1.29",
+  "versionCode": 30
 }
