@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "কম্বো ডিল এলো — Creator Combo ৳৪৪৯ (Gemini + CapCut + Canva), Stream Duo ৳৩৪৯, Study Pack ৳৩৬৯; একসাথে কিনলে সাশ্রয়, চেকআউটে টিয়ার ছাড়/কুপন/পয়েন্ট সব চলে"
+    "প্রোডাক্ট কার্ডে এখন রেটিং দেখা যাবে — সোনালি স্টার, গড় রেটিং আর রিভিউ সংখ্যা; অর্ডার রেট করলেই কার্ডের রেটিং সাথে সাথে আপডেট হবে"
   ],
-  "version": "1.30",
-  "versionCode": 31
+  "version": "1.31",
+  "versionCode": 32
 }
