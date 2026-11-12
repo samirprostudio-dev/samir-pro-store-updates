@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "সাহায্য কেন্দ্রের FAQ-তে আরও ২টি উত্তর যোগ হয়েছে — অটো-রিনিউ কীভাবে কাজ করে আর লয়্যালটি পয়েন্ট কীভাবে জমে ও ব্যবহার করা যায়"
+    "শর্তাবলি ও প্রাইভেসি পেজ যোগ হয়েছে — লগিনের শর্তাবলি/প্রাইভেসি লিংক আর প্রোফাইল মেনু থেকে খোলা যায়"
   ],
-  "version": "1.34",
-  "versionCode": 35
+  "version": "1.35",
+  "versionCode": 36
 }
