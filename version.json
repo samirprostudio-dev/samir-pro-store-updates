@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "শর্তাবলি ও প্রাইভেসি পেজ যোগ হয়েছে — লগিনের শর্তাবলি/প্রাইভেসি লিংক আর প্রোফাইল মেনু থেকে খোলা যায়"
+    "ডেলিভারড অর্ডারে 'সমস্যা জানাও' বাটন যোগ হয়েছে — সমস্যার ধরন বেছে সাপোর্ট মেসেজ কপি করে @SamirProSupport-এ পাঠানো যায়"
   ],
-  "version": "1.35",
-  "versionCode": 36
+  "version": "1.36",
+  "versionCode": 37
 }
