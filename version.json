@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "ডেলিভারড অর্ডারে 'সমস্যা জানাও' বাটন যোগ হয়েছে — সমস্যার ধরন বেছে সাপোর্ট মেসেজ কপি করে @SamirProSupport-এ পাঠানো যায়"
+    "প্রোডাক্ট শিটে মাসপ্রতি খরচ দেখা যাবে — ৬ বা ১২ মাসের প্ল্যানে প্রতি মাসে কত টাকা পড়ে, কেনার আগেই বোঝা যাবে (যেমন Gemini 12 মাস ≈ ৳20/মাস)"
   ],
-  "version": "1.36",
-  "versionCode": 37
+  "version": "1.37",
+  "versionCode": 38
 }
