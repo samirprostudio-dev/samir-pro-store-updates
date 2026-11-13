@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "লয়্যালটি পেজ এখন Silver আর Gold-এর প্রগ্রেসও ঠিকমতো দেখাবে — পরের টিয়ারে যেতে আর কত পয়েন্ট বাকি, বারসহ"
+    "উইশলিস্ট আর Recently viewed এখন অ্যাপ বন্ধ করলেও মনে থাকবে — রিলোড বা পেমেন্ট থেকে ফিরলেও হারাবে না"
   ],
-  "version": "1.40",
-  "versionCode": 41
+  "version": "1.41",
+  "versionCode": 42
 }
