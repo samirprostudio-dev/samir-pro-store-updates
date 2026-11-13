@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "পেমেন্ট শিটে দেখাবে এই অর্ডারে কত লয়্যালটি পয়েন্ট জমবে — পে করার আগেই রিওয়ার্ডটা জানা যাবে"
+    "লয়্যালটি পেজ এখন Silver আর Gold-এর প্রগ্রেসও ঠিকমতো দেখাবে — পরের টিয়ারে যেতে আর কত পয়েন্ট বাকি, বারসহ"
   ],
-  "version": "1.39",
-  "versionCode": 40
+  "version": "1.40",
+  "versionCode": 41
 }
