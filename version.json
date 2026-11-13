@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "প্রোফাইলে এখন বড় করে লগ আউট বোতাম — চাপলেই কনফার্ম পপআপ আসবে; সেটিংসে লগিন না থাকলে লগিন / সাইন আপ অপশন দেখাবে"
+    "লগ আউট থাকলেও এখন লগিন স্ক্রিন থেকে সেটিংস খোলা যাবে — সেটিংসে লগিন / সাইন আপ অপশন দেখাবে"
   ],
-  "version": "1.42",
-  "versionCode": 43
+  "version": "1.43",
+  "versionCode": 44
 }
