@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "লগ আউট থাকলেও এখন লগিন স্ক্রিন থেকে সেটিংস খোলা যাবে — সেটিংসে লগিন / সাইন আপ অপশন দেখাবে"
+    "এখন ব্যাক বাটনে অ্যাপ বন্ধ হবে না — শিট খোলা থাকলে ব্যাক চাপলে শিট বন্ধ হবে, অন্য ট্যাবে থাকলে স্টোরে ফিরবে"
   ],
-  "version": "1.43",
-  "versionCode": 44
+  "version": "1.44",
+  "versionCode": 45
 }
