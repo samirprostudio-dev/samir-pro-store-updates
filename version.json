@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "লগিনের মোবাইল নম্বরে এখন দেশের কোড বেছে নেওয়া যাবে; সাইন আপে নম্বর লিখলেই কোড সিলেক্টর আসবে — ইমেইল লিখলে আসবে না"
+    "বন্ধুদের ইনভাইট করে আয় করার নতুন পেজ — নিজের ইনভাইট কোড, লিংক শেয়ার আর রেফারেল আয়ের হিসাব এক জায়গায়"
   ],
-  "version": "1.45",
-  "versionCode": 46
+  "version": "1.46",
+  "versionCode": 47
 }
