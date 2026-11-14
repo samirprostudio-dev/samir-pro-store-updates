@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "এখন ব্যাক বাটনে অ্যাপ বন্ধ হবে না — শিট খোলা থাকলে ব্যাক চাপলে শিট বন্ধ হবে, অন্য ট্যাবে থাকলে স্টোরে ফিরবে"
+    "লগিনের মোবাইল নম্বরে এখন দেশের কোড বেছে নেওয়া যাবে; সাইন আপে নম্বর লিখলেই কোড সিলেক্টর আসবে — ইমেইল লিখলে আসবে না"
   ],
-  "version": "1.44",
-  "versionCode": 45
+  "version": "1.45",
+  "versionCode": 46
 }
