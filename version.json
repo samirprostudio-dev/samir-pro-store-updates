@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "কান্ট্রি কোড সিলেক্টরে এখন সার্চ করা যাবে — দেশের নাম বা কোড লিখলেই পছন্দের দেশ খুঁজে পাওয়া যাবে"
+    "বন্ধুর ইনভাইট কোড এখন লাগানো যাবে — Invite & Earn পেজে বন্ধুর কোড বসালেই সে তোমার প্রথম কেনায় ৫% পাবে"
   ],
-  "version": "1.49",
-  "versionCode": 50
+  "version": "1.50",
+  "versionCode": 51
 }
