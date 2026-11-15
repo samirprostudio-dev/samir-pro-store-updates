@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "ওয়ালেটের যেকোনো লেনদেনে ট্যাপ করলে এখন তার বিস্তারিত দেখা যাবে — পরিমাণ, তারিখ, মাধ্যম, ধরন আর লেনদেন আইডি (কপি করা যাবে)"
+    "কান্ট্রি কোড সিলেক্টরে এখন সার্চ করা যাবে — দেশের নাম বা কোড লিখলেই পছন্দের দেশ খুঁজে পাওয়া যাবে"
   ],
-  "version": "1.48",
-  "versionCode": 49
+  "version": "1.49",
+  "versionCode": 50
 }
