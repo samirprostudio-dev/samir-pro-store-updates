@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "কেনা গিফট কার্ড এখন এক ট্যাপে বন্ধুকে পাঠানো যাবে — Send বাটনে ট্যাপ করলেই কোডসহ Telegram শেয়ার খুলবে"
+    "গিফট কার্ড এখন নিজের অ্যামাউন্টেও কেনা যাবে — ৳100 থেকে ৳50,000 পর্যন্ত যেকোনো অ্যামাউন্ট লিখে কিনুন"
   ],
-  "version": "1.51",
-  "versionCode": 52
+  "version": "1.52",
+  "versionCode": 53
 }
