@@ -1,8 +1,8 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
-    "গিফট কার্ড এখন নিজের অ্যামাউন্টেও কেনা যাবে — ৳100 থেকে ৳50,000 পর্যন্ত যেকোনো অ্যামাউন্ট লিখে কিনুন"
+    "অ্যাপ আপডেটের ডাউনলোড প্রগ্রেস এখন একদম আসল — কত MB নামলো আর কত বাকি, ঠিকঠাক দেখাবে"
   ],
-  "version": "1.52",
-  "versionCode": 53
+  "version": "1.53",
+  "versionCode": 54
 }
