@@ -1,8 +1,9 @@
 {
   "apkUrl": "https://samirprostudio-dev.github.io/samir-pro-store-updates/SamirProStore.apk",
   "changelog": [
+    "লগইন, অর্ডার, ওয়ালেট, সাবস্ক্রিপশন ও উইথড্র — স্টোরের নতুন ফিচার যুক্ত হয়েছে",
     "অ্যাপ আপডেটের ডাউনলোড প্রগ্রেস এখন একদম আসল — কত MB নামলো আর কত বাকি, ঠিকঠাক দেখাবে"
   ],
-  "version": "1.53",
-  "versionCode": 54
+  "version": "1.54",
+  "versionCode": 55
 }
